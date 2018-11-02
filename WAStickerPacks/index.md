@@ -4,7 +4,7 @@
 
 ![CSStickers](https://github.com/tutorian/CodingStar/raw/master/WAStickerPacks/WACSSticker_Screenshot.png)
 
-[~~Android~~](./)
+[Android](https://github.com/tutorian/CodingStar/raw/master/WAStickerPacks/Android/CodingSticker.apk)
 [iOS](https://github.com/tutorian/CodingStar/raw/master/WAStickerPacks/iOS/CodingSticker_V1.ipa)
 
 -------------------------
@@ -13,7 +13,7 @@
 
 ![TechtastischStickers](https://github.com/tutorian/CodingStar/raw/master/WAStickerPacks/WATechtastisch_Screenshot.png)
 
-[~~Android~~](./)
+[Android](https://github.com/tutorian/CodingStar/raw/master/WAStickerPacks/Android/Techtastisch.apk)
 [iOS](https://github.com/tutorian/CodingStar/raw/master/WAStickerPacks/iOS/TechtastischStickerPack_V1.ipa)
 
 -------------------------
