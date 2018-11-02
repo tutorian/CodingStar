@@ -5,7 +5,7 @@
 ![CSStickers](https://github.com/tutorian/CodingStar/raw/master/WAStickerPacks/WACSSticker_Screenshot.png)
 
 [~~Android~~](./)
-[~~iOS~~](./)
+[iOS](https://github.com/tutorian/CodingStar/raw/master/WAStickerPacks/iOS/CodingSticker_V1.ipa)
 
 -------------------------
 
@@ -14,7 +14,7 @@
 ![TechtastischStickers](https://github.com/tutorian/CodingStar/raw/master/WAStickerPacks/WATechtastisch_Screenshot.png)
 
 [~~Android~~](./)
-[~~iOS~~](./)
+[iOS](https://github.com/tutorian/CodingStar/raw/master/WAStickerPacks/iOS/TechtastischStickerPack_V1.ipa)
 
 -------------------------
 
@@ -22,5 +22,5 @@
 
 ![NasenblutenStickers](https://raw.githubusercontent.com/tutorian/CodingStar/master/WAStickerPacks/Nasenbluten88.png)
 
-[~~Android~~](./)
+[Android](https://github.com/tutorian/CodingStar/raw/master/WAStickerPacks/Android/Nasenbluten88.apk)
 [~~iOS~~](./)

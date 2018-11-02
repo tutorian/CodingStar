@@ -1,4 +1,4 @@
-## CodingStar
+# CodingStar
 
 Welcome to **CodingStar**
 
@@ -12,6 +12,9 @@ Welcome to **CodingStar**
 
 -------------------------
 
+## [How to install "ipa"-files?](./HowToInstall_ipa)
+
+-------------------------
 You want to contact me?
 
 [Discord](https://bit.ly/DiscordGaming)
