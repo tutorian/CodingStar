@@ -12,7 +12,7 @@ Welcome to **CodingStar**
 
 -------------------------
 
-## [How to install "ipa"-files?](./HowToInstall_ipa)
+[How to install "ipa"-files?](./HowToInstall_ipa)
 
 -------------------------
 You want to contact me?
